@@ -1,3 +1,4 @@
-.pyc
-.py~
-.DS_Store
+*.pyc
+*.py~
+*.DS_Store
+*.txt
